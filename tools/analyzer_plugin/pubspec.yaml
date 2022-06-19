@@ -1,0 +1,8 @@
+name: foo_plugin
+
+environment:
+  sdk: '>=2.17.1 <3.0.0'
+
+dependencies:
+  analyzer_plugin: ^0.10.0
+  web_socket_channel: ^2.2.0

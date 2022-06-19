@@ -1,0 +1,4 @@
+{
+  "dart.analyzerInstrumentationLogFile": "instrumentation.log",
+  "dart.analyzerLogFile": "analyzer.log"
+}
